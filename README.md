@@ -1,1 +1,1 @@
-This is a project for the freeCodeCamp Responsive Web Desgin certificate.
+This is a project for the freeCodeCamp Responsive Web Design certificate.
